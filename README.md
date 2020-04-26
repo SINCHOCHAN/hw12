@@ -22,9 +22,13 @@ So that I can organize and plan my business
 
 # How to run:
 
-[runforhw12](./assets/images/runforhw12.mov "npm start") 
+demo 1 : video recording how to run (maybe you have to download the video to run )
 
-[run the test](./assets/images/runtest.png "screenshot of run the test") 
+![runforhw12](./assets/images/runforhw12.mov "npm start") 
+
+demo 2 : screenshot the list of content
+
+![run the test](./assets/images/runtest.png "screenshot of run the test") 
 
 ## Instructions
 
